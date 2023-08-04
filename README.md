@@ -1,2 +1,3 @@
-<!-- 运行命令 -->
-npm run serve
+# MoyuChat
+
+摸鱼聊天室
